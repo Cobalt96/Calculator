@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Input data</string>
+    <string name="x1">x1 = </string>
+    <string name="x2">x2 = </string>
+    <string name="btnSolve">SOLVE</string>
+    <string name="btnclear">CLEAR</string>
+    <string name="label">Calculator</string>
+    <string name="result"></string>
+    <string name="tvparce"></string>
+</resources>
